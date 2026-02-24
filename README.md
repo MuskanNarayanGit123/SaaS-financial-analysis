@@ -128,6 +128,5 @@ Net Profit Margin recovered to +3.47%, reflecting strong financial discipline.
 - Explore automation or outsourcing options to manage Salary & Wages, which make up 57% of total expenses.
 - Maintain cost discipline from 2024 to keep profitability stable as revenue scales.
 
-## 📎 Links  
-🌐 [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7331059494908497921/)   
+## 📎 Links   
 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2ZlMTUzNjItZDYxOC00MjY3LWFjMjYtMjUyYjZiYWQ3YjMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
