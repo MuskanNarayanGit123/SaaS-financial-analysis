@@ -56,7 +56,7 @@ The dataset is fully accessible on the FP20 Analytics website and can be viewed 
 ## 📖 What’s Inside
 This repository includes a PDF version of the Power BI report hosted on the Power BI Service. Use the link below for a quick preview.
 
-- [Dashboard as PDF](https://github.com/Joyeta16/SaaS-financial-analysis/blob/main/SaaS%20Financial%20Analysis%20Dashboard.pdf)
+- [Dashboard as PDF](https://github.com/MuskanNarayanGit123/SaaS-financial-analysis/blob/main/SaaS%20Financial%20Analysis%20Dashboard.pdf)
 
 ## 👩‍💻 Tech Stack
 - **Data Visualization:** Power BI
